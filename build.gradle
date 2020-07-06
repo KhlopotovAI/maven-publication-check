@@ -9,7 +9,7 @@ plugins {
     id "org.jetbrains.kotlin.plugin.allopen" version "${kotlin_version}"
     id "org.jetbrains.kotlin.plugin.scripting" version "${kotlin_version}"
     id "org.jetbrains.kotlin.native.cocoapods" version "${kotlin_version}"
-    id "org.jetbrains.kotlin.android.extensions" version "${kotlin_version}"
+    //id "org.jetbrains.kotlin.android.extensions" version "${kotlin_version}"
     id "org.jetbrains.kotlin.plugin.serialization" version "${kotlin_version}"
 }
 
